@@ -1,0 +1,5 @@
+name: FuckForge
+description: Simple paper plugin to annoy players who use forge instead of fabric.
+main: me.obsilabor.fuckforge.FuckForge
+api-version: 1.16 #I think 1.16 is where kyori adventure components were introduced?
+version: 1.0-use-fabric
