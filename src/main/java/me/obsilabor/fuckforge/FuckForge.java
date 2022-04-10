@@ -32,7 +32,7 @@ public class FuckForge extends JavaPlugin implements PluginMessageListener {
                             .decorate(TextDecoration.UNDERLINED)
                             .clickEvent(ClickEvent.openUrl("https://fabricmc.net/use/"))
                             .hoverEvent(HoverEvent.showText(Component.text("Download fabric."))),
-                    Component.text(" instead of Forge.").
+                    Component.text(" instead of Forge?").
                             color(TextColor.color(15961742))
             );
             player.sendMessage(component);
