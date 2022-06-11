@@ -1,6 +1,6 @@
 plugins {
     java
-    id("io.papermc.paperweight.userdev") version "1.3.5"
+    id("io.papermc.paperweight.userdev") version "1.3.6"
     id("xyz.jpenilla.run-paper") version "1.0.6"
 }
 
@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    paperDevBundle("1.18.1-R0.1-SNAPSHOT")
+    paperDevBundle("1.19-R0.1-SNAPSHOT")
 }
 
 tasks {
